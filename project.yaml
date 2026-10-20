@@ -1,0 +1,6 @@
+name: b1-smoke
+default_workflow: scratch
+members:
+  - alias: b1-smoke
+    url: https://github.com/flotilla-org/b1-smoke
+    roles: [code]
